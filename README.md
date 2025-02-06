@@ -3,4 +3,4 @@
 Transform system observability with intelligent log analysis using advanced AI models
 -->
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/9095ee37-ff5c-4731-b49b-1023fd820090/deploy-status)](https://app.netlify.com/sites/espira-hbk-talk/deploys)
+[![Netlify Status]([![Netlify Status](https://api.netlify.com/api/v1/badges/42555f02-9d19-4a0f-a207-8ef46032bdc2/deploy-status)](https://app.netlify.com/sites/log-analytic/deploys))](log-analytic.netlify.app)
