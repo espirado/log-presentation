@@ -1,0 +1,41 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "slidev",
+    "build": "slidev build",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "^0.43.15",
+    "@slidev/theme-default": "^0.21.2",
+    "@slidev/theme-seriph": "^0.21.3"
+  },
+  "name": "log-insights",
+  "description": "Log Insights - AI-Powered Log Analysis: An intelligent tool that leverages LLMs to provide deep insights, anomaly detection, and root cause analysis from system logs.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "playwright": "^1.21.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/espirado/log-insights.git"
+  },
+  "author": "espirado",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/espirado/log-insights/issues"
+  },
+  "homepage": "https://github.com/espirado/log-insights#readme",
+  "keywords": [
+    "log",
+    "insights",
+    "log analysis",
+    "LLM",
+    "AI",
+    "openai",
+    "SRE",
+    "monitoring",
+    "observability"
+  ]
+}
