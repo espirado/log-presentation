@@ -32,6 +32,10 @@ layout: cover
 * Demo & Code Walkthrough
 * Q&A and Discussion
 
+Follow along url 
+```ts
+https://log-analytic.netlify.app/
+```
 
 ---
 
@@ -422,7 +426,7 @@ https://github.com/espirado/log-insights.git
 ---
 
 # Q&A, Links
-* [GitHub repo (slides + code)](https://github.com/espirado/slidev-rkkr52)
+
 * Catch me on [Twitter](https://twitter.com/AEspirado), 
 ```ts
 https://twitter.com/AEspirado
