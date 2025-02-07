@@ -94,17 +94,6 @@ Automating root cause analysis.
 </v-clicks>
 ---
 
-# Log Insight is an AI-powered log analysis tool designed to:
-
-<v-clicks>
-
-  - Automate log parsing and analysis: Process vast volumes of logs to detect anomalies and extract actionable insights
-  - Enhance SRE efficiency: Reduce manual log investigation by leveraging LLMs to provide root cause analysis and remediation suggestions
-  -  Scale with ease: Handle high-throughput log data across distributed and heterogeneous environments
--  Visualize insights interactively: Present comprehensive dashboards for monitoring and trend analysis
-
-</v-clicks>
----
 
 # Log Insight is an AI-powered log analysis tool designed to:
 
